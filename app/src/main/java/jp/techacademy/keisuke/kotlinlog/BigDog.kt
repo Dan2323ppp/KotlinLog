@@ -1,7 +1,7 @@
 package jp.techacademy.keisuke.kotlinlog
 
 import android.util.Log
-
+/*
 class BigDog: Dog {
 
     // superで親クラスのコンストラクタを呼ぶ
@@ -13,3 +13,5 @@ class BigDog: Dog {
         Log.d("kotlintest", "大きな犬です。")
     }
 }
+
+ */

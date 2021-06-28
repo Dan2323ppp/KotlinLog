@@ -120,13 +120,25 @@ class MainActivity : AppCompatActivity() {
         */
 
         //Humanクラスのインスタンス2つ作成、say,thinkメソッドを呼び出し
-        val human1 = Human("たかお",33)
+
+        val human1 = Human("たかお",33, "教育")
         human1.say()
         human1.think()
 
-        val human2 = Human("あけみ",30)
+        val human2 = Human("あけみ",30,"料理")
         human2.say()
         human2.think()
+
+
+        /*
+        val items = arrayListOf<String?>("こんにちは！", null, "こんばんわ", null)
+        for(item in items){     //4回繰り返す
+            item?.let {
+                Log.d("TAG", "キラメキさん、$item")
+            }
+        }
+
+         */
 
 
 

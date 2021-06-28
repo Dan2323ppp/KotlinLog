@@ -1,11 +1,12 @@
 package jp.techacademy.keisuke.kotlinlog
 
 import android.util.Log
-
+/*
 open class Dog: Animal,Movable {
 
+
     // 引数付きコンストラクタ
-    constructor(name: String, age: Int): super(name, age) {
+    constructor(name: String, age: Int): super(name, age) {    //動物にも趣味を与えないと
     }
 
     // Animalクラスのメソッドをオーバーライド
@@ -17,3 +18,5 @@ open class Dog: Animal,Movable {
         Log.d("kotlintest", this.name + "(" + this.age + "歳)" + "は全力で走った。")
     }
 }
+
+ */
