@@ -1,7 +1,7 @@
 package jp.techacademy.keisuke.kotlinlog
 
 import android.util.Log
-/*
+
 open class Dog: Animal,Movable {
 
 
@@ -19,4 +19,3 @@ open class Dog: Animal,Movable {
     }
 }
 
- */
